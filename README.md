@@ -1,5 +1,5 @@
 # Eventos-Susana-Garcia
-Esta es una pagina web de Planeacion de Eventos
+Esta es una página web de Planeación de Eventos
 
 Nombre del Alumno: SUSANA DE JESUS GARCIA SANTIAGO
 <br/>
